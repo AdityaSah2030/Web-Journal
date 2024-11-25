@@ -1,9 +1,9 @@
 ---
 
-# Web Applications 🌐📝  
+# Web Journal 🌐📝  
 _A Web App Built with Django_
 
-Welcome to the **Web Application** project! This application is a simple and intuitive journal platform where users can record and track their learning progress. With account creation, secure logins, and a streamlined interface, users can document their journey across various topics.
+Welcome to the **Web Application** project! This application is a simple and intuitive journal platform where users can record and track their learning progress. Users can document their journey across various topics with account creation, secure logins, and a streamlined interface.
 
 ---
 
